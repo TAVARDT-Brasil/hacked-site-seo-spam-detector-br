@@ -6,8 +6,6 @@
 
 Auditoria forense de desfigutacao, cloaking condicional para rastreadores, injecao oculta de links e comprometimento de reputacao digital.
 
-Desenvolvido e mantido pela divisao de resposta a incidentes e analise forense da **TAVARDT**.
-
 ***
 
 ## Capacidades de Auditoria Forense e Deteccao de Invasao
@@ -37,15 +35,6 @@ python seo_spam_detector.py exemplo.com.br -json
 
 ***
 
-## Diagnostico Forense Completo na Web
-
-Para varreduras profundas e auditoria de seguranca de sites comprometidos:
-
-* **Detector de Sites Hackeados e Spam SEO Oficial**
-* **[Portal Corporativo TAVARDT](https://ag.tavardt.com/br/)**
-
-***
-
 ## Resposta a Incidentes e Desinfeccao de Sites
 
 Para suporte emergencial na remocao de malware, recuperacao de penalizacoes do Google e blindagem sob Seguranca de Aplicacoes e Protecao de Reputacao Web, contate os peritos da **TAVARDT**.
@@ -63,7 +52,7 @@ Para suporte emergencial na remocao de malware, recuperacao de penalizacoes do G
 ***
 
 ### Licença
-Distribuído sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter detalhes completos.
+Distribuído sob a Licença MIT.
 
 ***
 
